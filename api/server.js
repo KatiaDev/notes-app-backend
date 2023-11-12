@@ -37,7 +37,7 @@ const tagsRouter = require("./tags/router");
 
 const whitelist = [
   "http://localhost:3000",
-  "https://notes-app-git-ecaterina-popa-ekaterina-popa.vercel.app/",
+  "https://notes-app-frontend-kappa.vercel.app/",
 ];
 
 const corsOptions = {
